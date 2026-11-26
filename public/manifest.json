@@ -1,0 +1,21 @@
+{
+  "name": "Life RPG - Геймификация продуктивности",
+  "short_name": "Life RPG",
+  "description": "Преврати свою жизнь в игру! Устанавливай цели, выполняй квесты, прокачивай персонажа.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "categories": ["productivity", "lifestyle", "games"],
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
